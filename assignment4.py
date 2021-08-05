@@ -1,0 +1,15 @@
+a=str(input("Enter a string Value:-"))
+b=int(a)
+print("value in interger is:-",b)
+print(type(b))
+c=float(a)
+print("value in float is:-",c)
+print(type(c))
+d=bool(a)
+print("value in boolian is:-",d)
+print(type(d))
+e=complex(a)
+print("value in complex is:-",e)
+print(type(e))
+
+

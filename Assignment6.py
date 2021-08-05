@@ -1,0 +1,7 @@
+a=complex(input("Enter a complex number:-"))
+b=bool(a)
+print("the value in boolean is:-",b)
+print(type(b))
+c=str(a)
+print("the value of the string is:-",c)
+print(type(c))
